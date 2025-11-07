@@ -25,3 +25,4 @@ Documentation Archivist provides a **repeatable, low-friction workflow** that en
 
 ## Repository Structure
 
+*Status:* Version 0.1 (Draft Complete)
