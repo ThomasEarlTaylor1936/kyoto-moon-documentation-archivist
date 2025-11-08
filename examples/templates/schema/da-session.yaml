@@ -1,0 +1,15 @@
+da_session:
+  date: "YYYY-MM-DD"
+  project: "string"
+
+  intent: "string"        # Why this session exists
+  context: "string"       # What state existed before
+  action: "string"        # What changed
+  decision: "string"      # The durable choice
+  evidence: "string"      # Where to verify the change is real
+  next: "string"          # The very next step
+
+  search_anchors:
+    intent_tag: "3-5 words capturing the Intent"
+    decision_tag: "3-5 words capturing the Decision"
+    evidence_ref: "commit / file / link"
