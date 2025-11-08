@@ -21,6 +21,24 @@ Documentation Archivist provides a **repeatable, low-friction workflow** that en
 - You can **reuse** past work without reconstructing it
 - Others can understand decisions **without asking you to re-explain**
 
+- ## Getting Started (v0.1)
+
+This is the minimal workflow for using the Documentation Archivist:
+
+1. Choose a project you want to work on (writing, research, technical build, planning, etc.).
+2. Create a folder for that project on your computer.
+3. Inside that folder, create a file named `DA-Session.md`.
+4. Each time you work, open `DA-Session.md` and add a short entry:
+   - What you are doing
+   - Why you are doing it
+   - Any decisions or reasoning made
+5. When you stop, add a brief line:
+   `End of Session — Notes saved.`
+
+Over time, this creates a clear provenance chain:  
+You can return to the work at any point and **re-enter** it without losing the thread.
+
+
 ---
 
 ## Repository Structure
