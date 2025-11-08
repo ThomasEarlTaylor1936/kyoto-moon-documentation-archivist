@@ -1,22 +1,29 @@
-# DA Session — Example
+# DA Provenance Entry — Example (v0.1)
 
-**Date:** 2025-11-07  
-**Time:** 10:14 AM  
+**Date:** 2025-11-08  
 **Project:** Documentation Archivist (Kyoto Moon Edition)
 
-**Goal:** Clarify README section on purpose.
+## Intent
+Prevent DA from being misread as a note-taking or journaling tool.
 
-**Reasoning:**
-- Users need to understand the concept quickly.
-- Avoid framing DA as “just notes” or a wiki.
-- Focus on continuity and re-entry.
+## Context
+README explained the purpose but did not clearly distinguish DA from PKM systems.
 
-**Actions Taken:**
-- Revised top description for clarity.
-- Confirmed licensing structure.
-- Marked Version 0.1 as draft complete.
+## Action
+Added a “What DA Is / Isn’t” section and clarified the concept of searchable memory.
 
-**Outcome:**
-The project now has a clear purpose statement visible at the top of the README.
+## Decision
+Standardize the minimal provenance schema:
+Intent → Context → Action → Decision → Evidence → Next
 
-_End of Session — Notes saved._
+## Evidence
+Commit: <commit SHA>
+Files updated: `README.md`
+
+## Next
+Add the DA Session Template so users have a starting point.
+
+# Search Anchors:
+Intent: onboarding clarity
+Decision: adopt provenance schema
+Evidence: commit <sha>
