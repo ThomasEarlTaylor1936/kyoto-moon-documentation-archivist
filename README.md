@@ -38,6 +38,14 @@ Documentation Archivist provides a **repeatable, low-friction workflow** that en
 **Core Purpose**
 DA creates **searchable memory** — it preserves *why* decisions were made so you can re-enter work later **without reconstructing your past thinking**.
 
+### Why This Matters for AI-Human Workflows
+
+When AI is part of the creative or analytical process, the content is easy to reproduce — but the *reasoning* that led to decisions is often lost. This causes fragmentation, rework, and loss of direction over time.
+
+DA preserves the human’s intent, context, action, and decisions in a form that is **searchable and reusable**.  
+This allows the human to stay oriented in their own thinking, even as tools and environments change.
+
+In short: DA maintains **continuity** — the part of thinking that makes your work *yours*.
 
 - ## Getting Started (v0.1)
 
