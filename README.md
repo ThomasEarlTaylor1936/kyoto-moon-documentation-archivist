@@ -21,6 +21,24 @@ Documentation Archivist provides a **repeatable, low-friction workflow** that en
 - You can **reuse** past work without reconstructing it
 - Others can understand decisions **without asking you to re-explain**
 
+## What DA Is / Isn’t
+
+**DA Is**
+
+* A minimal framework for preserving *provenance*: why a change happened, what changed, and what decision now exists.
+* A way to make reasoning, decisions, and evidence **reusable** across time and tools.
+* A system for creating **searchable memory** — not by storing more, but by making the reasoning behind decisions recoverable.
+
+**DA Isn’t**
+
+* Not a note-taking app, PKM system, or digital garden.
+* Not a task manager, calendar, productivity tool, or whiteboard.
+* Not a public data store. You keep your materials locally; DA makes the *logic* portable.
+
+**Core Purpose**
+DA creates **searchable memory** — it preserves *why* decisions were made so you can re-enter work later **without reconstructing your past thinking**.
+
+
 - ## Getting Started (v0.1)
 
 This is the minimal workflow for using the Documentation Archivist:
