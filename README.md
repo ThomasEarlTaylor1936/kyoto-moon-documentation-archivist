@@ -1,4 +1,6 @@
+Documentation Archivist — Kyoto Moon Edition
 Open Knowledge with Roots
+
 A provenance-aware workflow and storytelling system designed to reduce AI recomputation, conserve energy, and restore continuity to human knowledge.
 
 What Is the Documentation Archivist?
